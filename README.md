@@ -34,3 +34,9 @@ docker build . -t sandbox-leetcode
 docker run -d -v sandbox-volume:/volume --env lang='py' sandbox-leetcode
 ```
 
+
+
+# TO ADD
+
+1) Resource constraint
+2) Timing contraint
